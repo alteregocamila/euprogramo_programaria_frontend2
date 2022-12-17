@@ -5,4 +5,4 @@
 The Online Course Eu Progr{amo} – Front End #2 is a course for those who already have basic notions in web development and want to go deeper and start developing responsive websites.
 
 Follow the link to the final project published on GitHub Page: 🦸‍♀
-<a href = ''>Ada Lovelace</a> 🚀
+<a href = 'https://alteregocamila.github.io/euprogramo_programaria_frontend2/'>Dicionário de mulheres negras</a> 🚀
